@@ -1,7 +1,7 @@
 # Jkutkut's projects
 Here you will see the variety of projects you can find here.
 
-<style>
+<!-- <style>
 .element {
     display:flex;
     flex-direction: row;
@@ -14,76 +14,82 @@ Here you will see the variety of projects you can find here.
     width: 3rem;
     margin-right: 0.8rem;
 }
-</style>
+</style> -->
 
 <div class="element">
-    <img src="./../res/imgs/js.png">
+    <img src="./../res/imgs/js.png" width="50" height="50">
 
-## [JavaScript](https://github.com/Jkutkut/JavaScript)
+[JavaScript](https://github.com/Jkutkut/JavaScript)
 </div>
 
 <div class="element">
-    <img src="./../res/imgs/python.png">
+    <img src="./../res/imgs/python.png" width="50" height="50">
 
 ## [Python](https://github.com/Jkutkut/Python)
 </div>
 
 <div class="element">
-    <img src="./../res/imgs/java.png">
+    <img src="./../res/imgs/java.png" width="50" height="50">
 
 ## [Java](https://github.com/Jkutkut/Java)
 </div>
 
 <div class="element">
-    <img src="./../res/imgs/shell-script.jpeg">
+    <img src="./../res/imgs/shell-script.jpeg" width="50" height="50">
 
 ## [Shell Script](https://github.com/Jkutkut/Shell-Script)
 </div>
 
 <div class="element">
-    <img src="./../res/imgs/regex.png">
+    <img src="./../res/imgs/regex.png" width="50" height="50">
 
 ## [Regex](https://github.com/Jkutkut/Regex)
 </div>
 
 <div class="element">
-    <img src="./../res/imgs/cad.png">
+    <img src="./../res/imgs/cad.png" width="50" height="50">
 
 ## [3D Design](https://github.com/Jkutkut/3D_Design)
 </div>
 
 <div class="element">
-    <img src="./../res/imgs/app-development.png">
+    <img src="./../res/imgs/android-studio.png" width="50" height="50">
+
+## [Android Studio]()
+</div>
+
+<div class="element">
+    <img src="./../res/imgs/app-development.png" width="50" height="50">
 
 ## [AppInventor](https://github.com/Jkutkut/AppInventor)
 </div>
 
 <div class="element">
-    <img src="./../res/imgs/arduino.png">
+    <img src="./../res/imgs/arduino.png" width="50" height="50">
 
 ## [Arduino](https://github.com/Jkutkut/Arduino)
 </div>
 
 <div class="element">
-    <img src="./../res/imgs/js.png">
+    <img src="./../res/imgs/js.png" width="50" height="50">
 
 ## [Google Sheets](https://github.com/Jkutkut/Google-Sheets)
 </div>
 
 <div class="element">
-    <img src="./../res/imgs/matlab.png">
+    <img src="./../res/imgs/matlab.png" width="50" height="50">
 
 ## [MatLab]()
 </div>
 
 <div class="element">
-    <img src="./../res/imgs/geogebra.png">
+    <img src="./../res/imgs/geogebra.png" width="50" height="50">
 
 ## [Geogebra](https://github.com/Jkutkut/Geogebra)
 </div>
 
 <div class="element">
-    <img src="./../res/imgs/scratch.png">
+    <img src="./../res/imgs/scratch.png" width="50" height="50">
 
 ## [Scratch](https://github.com/Jkutkut/Scratch)
 </div>
