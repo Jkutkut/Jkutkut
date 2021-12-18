@@ -3,7 +3,7 @@ Here you will see the variety of projects you can find here.
 
 ||Type|
 |---|---|
-|<img src="./../res/imgs/js.png" width="50" height="50">|<h2>[JavaScript](https://github.com/Jkutkut/JavaScript)<h2>|
+|<img src="./../res/imgs/js.png" width="50" height="50">|<h2>[JavaScript](./js/javascript.en.md)<h2>|
 |<img src="./../res/imgs/python.png" width="50" height="50">|<h2>[Python](https://github.com/Jkutkut/Python)<h2>|
 |<img src="./../res/imgs/java.png" width="50" height="50">|<h2>[Java](https://github.com/Jkutkut/Java)<h2>|
 |<img src="./../res/imgs/shell-script.jpeg" width="50" height="50">|<h2>[Shell Script](https://github.com/Jkutkut/Shell-Script)<h2>|
