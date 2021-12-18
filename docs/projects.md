@@ -9,6 +9,7 @@ Here you will see the variety of projects you can find here.
 |<img src="./../res/imgs/shell-script.jpeg" width="50" height="50">|<h2>[Shell Script](./shell-script/shell-script.en.md)<h2>|
 |<img src="./../res/imgs/regex.png" width="50" height="50">|<h2>[Regex](https://github.com/Jkutkut/Regex)<h2>|
 |<img src="./../res/imgs/cad.png" width="50" height="50">|<h2>[3D Design](./cad/cad.en.md)<h2>|
+|<img src="./../res/imgs/c.png" width="50" height="50">|<h2>[C]()<h2>|<!-- |<img src="./../res/imgs/cplusplus.png" width="50" height="50">|<h2>[C++]()<h2>| -->
 |<img src="./../res/imgs/android-studio.png" width="50" height="50">|<h2>[Android Studio](./app/android/android-studio.en.md)<h2>|
 |<img src="./../res/imgs/app-development.png" width="50" height="50">|<h2>[AppInventor](./app/app-inventor/app-inventor.en.md)<h2>|
 |<img src="./../res/imgs/arduino.png" width="50" height="50">|<h2>[Arduino](./arduino/arduino.en.md)<h2>|
@@ -17,7 +18,7 @@ Here you will see the variety of projects you can find here.
 |<img src="./../res/imgs/geogebra.png" width="50" height="50">|<h2>[Geogebra](https://github.com/Jkutkut/Geogebra)<h2>|
 |<img src="./../res/imgs/scratch.png" width="50" height="50">|<h2>[Scratch](https://github.com/Jkutkut/Scratch)<h2>|
 <!-- ||<h2>[Automagic](https://github.com/Jkutkut/Automagic)<h2>| -->
-
+<!-- |<img src="./../res/imgs/" width="50" height="50">|<h2>[]()<h2>| -->
 <br>
 <br>
 
