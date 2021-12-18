@@ -11,8 +11,7 @@ Here you will see the variety of projects you can find here.
 |<img src="./../res/imgs/cad.png" width="50" height="50">|<h2>[3D Design](./cad/cad.en.md)<h2>|
 |<img src="./../res/imgs/android-studio.png" width="50" height="50">|<h2>[Android Studio](./app/android/android-studio.en.md)<h2>|
 |<img src="./../res/imgs/app-development.png" width="50" height="50">|<h2>[AppInventor](./app/app-inventor/app-inventor.en.md)<h2>|
-
-|<img src="./../res/imgs/arduino.png" width="50" height="50">|<h2>[Arduino](https://github.com/Jkutkut/Arduino)<h2>|
+|<img src="./../res/imgs/arduino.png" width="50" height="50">|<h2>[Arduino](./arduino/arduino.en.md)<h2>|
 |<img src="./../res/imgs/js.png" width="50" height="50">|<h2>[Google Sheets](https://github.com/Jkutkut/Google-Sheets)<h2>|
 |<img src="./../res/imgs/matlab.png" width="50" height="50">|<h2>[MatLab]()<h2>|
 |<img src="./../res/imgs/geogebra.png" width="50" height="50">|<h2>[Geogebra](https://github.com/Jkutkut/Geogebra)<h2>|
