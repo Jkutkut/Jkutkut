@@ -8,7 +8,7 @@ I learnt by myself thanks to all the free content on internet and this is my way
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jre-gonz?privacyEmail=true&privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkutkut&hide=HTML,G-code,scss,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkutkut&hide=HTML,G-code,scss,css&theme=radical&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkutkut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
