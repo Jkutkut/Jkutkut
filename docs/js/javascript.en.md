@@ -36,6 +36,8 @@ Here you will find JavaScript based projects:
 
 **·[CV generator](https://github.com/Jkutkut/CV-Jkutkut):** Generate your CV by editing a single JSON file.
 
+**·[SPACEWAR](https://github.com/Jkutkut/JS-SPACEWAR):** Recreation of the game SPACEWAR.
+
 **·[7 segment display clock](https://github.com/Jkutkut/Js-Seven-segment-display-clock)**: Clock creating a digital 7 segment display.
 
 **·[Barnsley fern fractal](https://github.com/Jkutkut/Js_Barnsley-fern-fractal):** Representation of a Barnsley fern fractal using points.
