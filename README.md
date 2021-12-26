@@ -9,10 +9,22 @@ I learnt by myself thanks to all the free content on internet and this is my way
 <a href="https://github.com/JaeSeoKim/badge42">
   <img align="center" src="https://badge42.herokuapp.com/api/stats/jre-gonz?privacyEmail=true&privacyName=true" alt="jaeskim's 42 stats"/>
 </a>
+  
+<br>
+  
+<br>
+  
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkutkut&hide=HTML,G-code,scss,css&theme=radical&langs_count=6" alt="Top Langs"/>
 </a>
+  
+<br>
+  
+<br>
+  
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jkutkut&theme=radical" alt="Catalin's GitHub stats"/>
