@@ -40,5 +40,5 @@ Here you will see the variety of projects you can find here.
 - [Public projects](./docs/projects.md)
 - 42Madrid:
 	- [C_Piscine](https://github.com/Jkutkut/42Madrid-C_Piscine)
-	- [Cursus]()
+	- [Cursus](https://github.com/Jkutkut/42Madrid-Cursus)
 
