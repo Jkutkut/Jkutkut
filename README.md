@@ -6,9 +6,7 @@ I learnt by myself thanks to all the free content on internet and this is my way
 
 <div style="text-align:center">
 
-<a href="https://github.com/JaeSeoKim/badge42">
-  <img align="center" src="https://badge42.herokuapp.com/api/stats/jre-gonz?privacyEmail=true&privacyName=true" alt="jaeskim's 42 stats"/>
-</a>
+[![jre-gonz's 42 stats](https://badge42.vercel.app/api/v2/cl1mdj8k9006109l506v3krpv/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
   
 <br>
   
