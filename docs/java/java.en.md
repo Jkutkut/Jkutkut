@@ -18,3 +18,14 @@ Here you will find some Java projects:
 **·[Preparación ProgramaMe](https://github.com/Jkutkut/Programame-DAM_2022):**
 **·[Colecciones](https://github.com/Jkutkut/Java-Colecciones):**
 **·[Herencia](https://github.com/Jkutkut/Java-Herencia):**
+
+### Swing:
+
+**·[Basic swing examples](https://github.com/Jkutkut/Java-Swing_UF9_3)**: Collection of examples to help you start with Java Swing.
+
+**·[Simple shopping list](https://github.com/Jkutkut/Java-Lista_Compra_Basica)**: Simple shopping list with a GUI.
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+
