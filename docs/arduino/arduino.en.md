@@ -6,6 +6,7 @@ Here you will find Arduino based projects:
 
 **· [SwitchItON](https://github.com/Jkutkut/SwitchItON):** A domotic project to switch on and off all electric devices.
 
+**·[Morse Communication](https://github.com/Jkutkut/Arduino-Morse_Communication)**: A simple project to send and receive morse code using light.
 
 ## Bitbloq:
 **· [BQ-Zum-Core-2.0-Bluetooth-Low-Energy-Example](https://github.com/Jkutkut/BQ-Zum-Core-2.0-Bluetooth-Low-Energy-Example)**: Example to learn how to communicate with the board via bluetooth low energy.
