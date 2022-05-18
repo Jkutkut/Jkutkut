@@ -17,6 +17,11 @@ Aquí podrás encontrar proyectos basados en JavaScript
 
 ## Sólo JavaScript:
 
+**·[Multitool](https://github.com/Jkutkut/JS-MultiTool)**: Website with multiple tools to help with electronics and chip design.
+
+**·[Learning cards](https://github.com/Jkutkut/JS-LearningCards)**: Simple tool to learn new things with cards using a JSON file.
+
+
 **·[Reloj con display  de 7 segmentos](https://github.com/Jkutkut/Js-Seven-segment-display-clock)**: Reloj creando un display de 7 segmentos digital.
 
 **·[Fractal Barnsley fern](https://github.com/Jkutkut/Js_Barnsley-fern-fractal):** Representación de un fractal Barnsley usanndo puntos.
@@ -28,3 +33,9 @@ Aquí podrás encontrar proyectos basados en JavaScript
 
 **·[Juego Ajedrez](https://github.com/Jkutkut/Js_Chess-Game):** El clásico juego para jugar 1 vs 1 en el mismo dispositivo (Con detector de movimientos).
 
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
