@@ -23,7 +23,7 @@ I learnt by myself thanks to all the free content on internet and this is my way
 <br>
   
 <br>
-<a href="http://www.github.com/alexeses"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jkutkut&theme=radical&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jkutkut&theme=radical&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
   
 <br>
   
