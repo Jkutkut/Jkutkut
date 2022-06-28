@@ -6,9 +6,7 @@ I learnt by myself thanks to all the free content on internet and this is my way
 
 <div style="text-align:center">
 
-<a href="https://github.com/JaeSeoKim/badge42">
-  <img align="center" src="https://badge42.herokuapp.com/api/stats/jre-gonz?privacyEmail=true&privacyName=true" alt="jaeskim's 42 stats"/>
-</a>
+[![jre-gonz's 42 stats](https://badge42.vercel.app/api/v2/cl1mdj8k9006109l506v3krpv/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
   
 <br>
   
@@ -17,8 +15,15 @@ I learnt by myself thanks to all the free content on internet and this is my way
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkutkut&hide=HTML,G-code,scss,css&theme=radical&langs_count=6" alt="Top Langs"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkutkut&hide=HTML,G-code,scss,css,objective-c,roff&theme=radical&langs_count=6" alt="Top Langs"/>
 </a>
+
+<br>
+  
+<br>
+  
+<br>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jkutkut&theme=radical&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
   
 <br>
   
@@ -27,7 +32,7 @@ I learnt by myself thanks to all the free content on internet and this is my way
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jkutkut&theme=radical" alt="Catalin's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jkutkut&theme=radical&show_icons=true&hide=stars,prs" alt="Catalin's GitHub stats"/>
 </a>
 
 </div>
