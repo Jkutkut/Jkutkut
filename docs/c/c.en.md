@@ -8,4 +8,12 @@
 
 <!-- **·[SHA512]()**: My implementation of the SHA512 algorithm. -->
 
+**·[RGBlib](https://github.com/Jkutkut/C-RGBlib)**: Basic library to use RGB colors on C/C++ code.
+
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
 <!-- **·[]()**:  -->
