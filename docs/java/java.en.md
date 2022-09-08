@@ -34,6 +34,8 @@ Here you will find some Java projects:
 
 **·[Guia Michelin](https://github.com/Jkutkut/Java-Guia_Michelin)**: Swing project to manage Michelin restaurants with a DB and Java Swing.
 
+**·[Eurovision](https://github.com/Jkutkut/Java-Eurovision)**: Tool to simulate the scoring system of Eurovision.
+
 <!-- **·[]()**:  -->
 <!-- **·[]()**:  -->
 
