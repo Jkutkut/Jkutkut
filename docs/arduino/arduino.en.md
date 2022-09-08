@@ -8,6 +8,13 @@ Here you will find Arduino based projects:
 
 **·[Morse Communication](https://github.com/Jkutkut/Arduino-Morse_Communication)**: A simple project to send and receive morse code using light.
 
+**·[Distance Representation](https://github.com/Jkutkut/Arduino-Distance_Representation)**: Simple way to measure and represent distances using ultrasounds.
+
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+
 ## Bitbloq:
 **· [BQ-Zum-Core-2.0-Bluetooth-Low-Energy-Example](https://github.com/Jkutkut/BQ-Zum-Core-2.0-Bluetooth-Low-Energy-Example)**: Example to learn how to communicate with the board via bluetooth low energy.
 
