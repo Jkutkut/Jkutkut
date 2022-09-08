@@ -26,3 +26,19 @@ Here you will find Python3 based projects
 **·[Cards Simulation](https://github.com/Jkutkut/PY-Cards_Simulation):** Collection of code to make simulations with cards.
 
 **·[Code style converter](https://github.com/Jkutkut/PY-Code_style_converter):** Collection of code to change the style of programming files.
+
+**·[Seven Segment Display](https://github.com/Jkutkut/PY-Seven_Segment_Display)**: Logic to codify information into a collection of Seven segment displays.
+
+**·[Asciigraph](https://github.com/Jkutkut/PY-AsciiGraph)**: My own implementation of a graph generator using ascii characters.
+
+**·[NanoShell](https://github.com/Jkutkut/PY-NanoShell)**: Basic logic to implement a command shell.
+
+**·[API42](https://github.com/Jkutkut/PY-API42)**: Class to use the API of 42 School.
+
+**·[MoleWakaMole](https://github.com/Jkutkut/42Madrid-Molewakamole)**: (hidden).
+
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
+<!-- **·[]()**:  -->
