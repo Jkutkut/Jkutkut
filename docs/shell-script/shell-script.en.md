@@ -15,7 +15,10 @@ Here you will find Shell Script based programs:
 
 **· [Morse Code Converter](https://github.com/Jkutkut/Sh_Morse-Code-Converter)**
 
-<!-- **·[]()**:  -->
-<!-- **·[]()**:  -->
+**·[.cofiguration](https://github.com/Jkutkut/.configuration)**: My customization repo
+
+- **[.MacConfiguration](https://github.com/Jkutkut/.MacConfiguration)**: Configuration for a Mac system to link projects using ssh to another device.
+
+
 <!-- **·[]()**:  -->
 <!-- **·[]()**:  -->

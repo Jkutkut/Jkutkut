@@ -6,6 +6,10 @@ Here you will find JavaScript based projects:
 
 ## Categories
 
+### Full Stack
+
+**·[MoleWakaMoleWeb](https://github.com/Jkutkut/MoleWakaMoleWeb):** Tool to interact with API42
+
 ### P5:
 
 **·[Rubik's Cube](https://github.com/Jkutkut/JS-Rubik_Cube):** The logic in order to create a represent a fully functional Rubik's Cube.
@@ -15,6 +19,14 @@ Here you will find JavaScript based projects:
 **·[Lissajous Curves](https://github.com/Jkutkut/JS-Lissajous-curves):** A way to visualice this curves using aproximation by dots.
 
 **·[Chess game](https://github.com/Jkutkut/Js_Chess-Game):** the classic game to play 1 vs 1 in same device (with movements detection).
+
+**·[Game Room](https://github.com/Jkutkut/JS-GameRoom):** Website with multiple games made with Js and P5.js.
+
+<!-- **·[]():**  -->
+<!-- **·[]():**  -->
+<!-- **·[]():**  -->
+<!-- **·[]():**  -->
+<!-- **·[]():**  -->
 
 #### Fourier:
 - **[Fourier Series Visualization](https://github.com/Jkutkut/JS-Fourier-Series-Visualization):** A simple way to visualice the given Fourier Series.
