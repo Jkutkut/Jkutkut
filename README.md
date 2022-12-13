@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page!
 <br>
-I am learning by myself thanks to all the free content on internet and this is my way of paying back: This site will host all the non private code I will make over the years, so everyone interested can see my code and (hopefully) lean as well. At the moment, I am also at 42 Network and getting a Technical degree in App Development.
+I am learning by myself thanks to all the free content on internet and this is my way of paying back: This site will host all the non private code I will make over the years, so everyone interested can see my code and (hopefully) learn as well. At the moment, I am also at 42 Network and getting a Technical degree in App Development.
 
 ## My Stats
 
