@@ -7,11 +7,15 @@ Feel free to explore my list of projects. You can use all the available repos as
 
 Here you will see the variety of projects you can find here.
 <!-- - [Special projects]() -->
-- [Public projects](./docs/projects.md)
+<!-- - [Public projects](./docs/projects.md) -->
 - 42Madrid:
 	- [Cursus](https://github.com/Jkutkut/42Madrid-Cursus)
 	- [Custom header](https://github.com/Jkutkut/custom_header)
 	- [C_Piscine](https://github.com/Jkutkut/42Madrid-C_Piscine)
+- [JkutkutOrg](https://github.com/jkutkutOrg)
+- [JkutkutArchive](https://github.com/jkutkutArchive)
+- [OpenHacks](https://github.com/42Madrid-OpenHacks)
+- [42Mural](https://github.com/42Mural)
 
 ## My Stats
 
@@ -55,4 +59,3 @@ Here you will see the variety of projects you can find here.
 [![trophy](https://github-profile-trophy.vercel.app/?username=jkutkut&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
