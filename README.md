@@ -2,6 +2,18 @@
 <br>
 I am learning by myself thanks to all the free content on internet and this is my way of paying back: This site will host all the non private code I will make over the years, so everyone interested can see my code and (hopefully) learn as well. At the moment, I am also at 42 Network and getting a Technical degree in App Development.
 
+## Projects:
+Feel free to explore my list of projects. You can use all the available repos as you wish. I only ask in return some credit in other for other people to find this site :D. Feedback is also appreciated too.
+
+Here you will see the variety of projects you can find here.
+<!-- - [Special projects]() -->
+- [Public projects](./docs/projects.md)
+- 42Madrid:
+	- [Cursus](https://github.com/Jkutkut/42Madrid-Cursus)
+	- [Custom header](https://github.com/Jkutkut/custom_header)
+	- [Norminette tester](https://github.com/Jkutkut/Sh-Norminette_Tester)
+	- [C_Piscine](https://github.com/Jkutkut/42Madrid-C_Piscine)
+
 ## My Stats
 
 <div style="text-align:center">
@@ -35,17 +47,13 @@ I am learning by myself thanks to all the free content on internet and this is m
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jkutkut&theme=radical&show_icons=true&hide=stars,prs" alt="Catalin's GitHub stats"/>
 </a>
 
+<br>
+
+<br>
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jkutkut&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
-
-## Projects:
-Feel free to explore my list of projects. You can use all the available repos as you wish. I only ask in return some credit in other for other people to find this site :D. Feedback is also appreciated too.
-
-Here you will see the variety of projects you can find here.
-<!-- - [Special projects]() -->
-- [Public projects](./docs/projects.md)
-- 42Madrid:
-	- [Cursus](https://github.com/Jkutkut/42Madrid-Cursus)
-	- [Custom header](https://github.com/Jkutkut/custom_header)
-	- [Norminette tester](https://github.com/Jkutkut/Sh-Norminette_Tester)
-	- [C_Piscine](https://github.com/Jkutkut/42Madrid-C_Piscine)
 
