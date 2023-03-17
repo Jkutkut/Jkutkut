@@ -26,7 +26,6 @@ Here you will find JavaScript based projects:
 <!-- **·[]():**  -->
 <!-- **·[]():**  -->
 <!-- **·[]():**  -->
-<!-- **·[]():**  -->
 
 #### Fourier:
 - **[Fourier Series Visualization](https://github.com/Jkutkut/JS-Fourier-Series-Visualization):** A simple way to visualice the given Fourier Series.
@@ -44,6 +43,8 @@ Here you will find JavaScript based projects:
 
 
 ## Only JavaScript:
+**·[The_mind](https://github.com/Jkutkut/JS-The_mind):** Basic recreation of the board game "The mind".
+
 **·[Multitool](https://github.com/Jkutkut/JS-MultiTool)**: Multipurpose tool with converters, logic gates analisis...
 
 **·[CV generator](https://github.com/Jkutkut/CV-Jkutkut):** Generate your CV by editing a single JSON file.

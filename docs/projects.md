@@ -12,6 +12,7 @@ Here you will see the variety of projects you can find here.
 |<img src="./../res/imgs/swift.png" width="50" height="50">|<h2>[Swift](./swift/swift.en.md)<h2>|
 |<img src="./../res/imgs/shell-script.jpeg" width="50" height="50">|<h2>[Shell Script](./shell-script/shell-script.en.md)<h2>|
 |<img src="./../res/imgs/regex.png" width="50" height="50">|<h2>[Regex](https://github.com/Jkutkut/Regex)<h2>|
+|<img src="./../res/imgs/docker.png" width="50" height="50">|<h2>[Docker](./docker/docker.en.md)<h2>|
 |<img src="./../res/imgs/cad.png" width="50" height="50">|<h2>[3D Design](./cad/cad.en.md)<h2>|
 |<img src="./../res/imgs/app-development.png" width="50" height="50">|<h2>[AppInventor](./app/app-inventor/app-inventor.en.md)<h2>|
 |<img src="./../res/imgs/arduino.png" width="50" height="50">|<h2>[Arduino](./arduino/arduino.en.md)<h2>|
@@ -31,3 +32,4 @@ Here you will see the variety of projects you can find here.
 - Cad logo: <a href="https://www.flaticon.com/authors/uniconlabs" title="Uniconlabs">Uniconlabs</a>
 - AppInventor logo: <a href="https://www.flaticon.com/authors/eucalyp" title="Eucalyp">Eucalyp</a>
 - Scratch logo: <a href="https://www.freepik.com" title="Freepik">Freepik</a>
+- Docker logo: <a href="https://www.flaticon.com/free-icons/docker" title="docker icons">Freepik</a>

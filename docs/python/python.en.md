@@ -39,7 +39,9 @@ Here you will find Python3 based projects
 
 **·[Process Planning Visualizer](https://github.com/Jkutkut/PY-Process_Planner_Visualizer)**: A simple way to visualize how the different implementations work with the processes.
 
-<!-- **·[]()**:  -->
-<!-- **·[]()**:  -->
+**·[Sports Center](https://github.com/Jkutkut/PY-PostgreSQL-Sport_Center)**: Basic TUI with the logic to handle a simple sports center.
+
+**·[Travel Agency](https://github.com/Jkutkut/PY-Travel_Agency)**: Basic window with Python3 Tkinter.
+
 <!-- **·[]()**:  -->
 <!-- **·[]()**:  -->
