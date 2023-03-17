@@ -44,7 +44,8 @@ Here you will see the variety of projects you can find here.
 <!-- - [Special projects]() -->
 - [Public projects](./docs/projects.md)
 - 42Madrid:
+	- [Cursus](https://github.com/Jkutkut/42Madrid-Cursus)
+	- [Custom header](https://github.com/Jkutkut/custom_header)
 	- [Norminette tester](https://github.com/Jkutkut/Sh-Norminette_Tester)
 	- [C_Piscine](https://github.com/Jkutkut/42Madrid-C_Piscine)
-	- [Cursus](https://github.com/Jkutkut/42Madrid-Cursus)
 
