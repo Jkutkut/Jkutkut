@@ -1,13 +1,11 @@
 ### Welcome to my GitHub page!
 <br>
-I am learning by myself thanks to all the free content on internet and this is my way of paying back: This site will host all the non private code I will make over the years, so everyone interested can see my code and (hopefully) learn as well. At the moment, I am also at 42 Network and getting a Technical degree in App Development.
+I am learning by myself thanks to all the free content on internet and this is my way of paying back: This site (as well as the [archive](https://github.com/jkutkutArchive)) will host all the non private code I will make over the years, so everyone interested can see the code and (hopefully) learn as well. At the moment, I am also at 42 Network and getting a Technical degree in App Development.
 
 ## Projects:
-Feel free to explore my list of projects. You can use all the available repos as you wish. I only ask in return some credit in other for other people to find this site :D. Feedback is also appreciated too.
+Feel free to explore my list of projects. Feedback and contributions are always wellcome.
 
 Here you will see the variety of projects you can find here.
-<!-- - [Special projects]() -->
-<!-- - [Public projects](./docs/projects.md) -->
 - 42Madrid:
 	- [Cursus](https://github.com/Jkutkut/42Madrid-Cursus)
 	- [Custom header](https://github.com/Jkutkut/custom_header)
