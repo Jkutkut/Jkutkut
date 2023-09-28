@@ -2,7 +2,7 @@
 
 <br>
 
-I am learning by myself thanks to all the free content on internet and this is my way of paying back: I will host all the non private code I make over the years, so everyone interested can see the code and (hopefully) learn as well. At the moment, I am also at 42 Network and getting a Technical degree in App Development.
+I am learning by myself thanks to all the content on internet and this is my way of paying back: I will host all the non private code I make over the years, so everyone interested can see the code and (hopefully) learn as well. At the moment, I am working as a Software Developer while I study at 42 School.
 
 ## Projects:
 Feel free to explore my list of projects. Feedback and contributions are always wellcome.
