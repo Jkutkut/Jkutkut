@@ -2,21 +2,23 @@
 
 <br>
 
-I am learning by myself thanks to all the content on internet and this is my way of paying back: I will host all the non private code I make over the years, so everyone interested can see the code and (hopefully) learn as well. At the moment, I am working as a Software Developer while I study at 42 School.
+I am learning by myself thanks to all the content on internet and this is my way of paying back: I will host all the non private code I make over the years, so everyone interested can see the code and (hopefully) learn as well. At the moment, I am working as a Software Developer while I develop my own projects here.
 
 ## Projects:
 Feel free to explore my list of projects. Feedback and contributions are always wellcome.
 
-To see my latest work, check the pinned repositories.
+To see my latest work, check the **pinned repositories**.
+
+- [JkutkutOrg](https://github.com/jkutkutOrg)
+- [JkutkutArchive](https://github.com/jkutkutArchive)
+
 
 - 42Madrid:
 	- [Cursus](https://github.com/Jkutkut/42Madrid-Cursus)
 	- [Custom header](https://github.com/Jkutkut/custom_header)
 	- [C_Piscine](https://github.com/Jkutkut/42Madrid-C_Piscine)
-- [JkutkutOrg](https://github.com/jkutkutOrg)
-- [JkutkutArchive](https://github.com/jkutkutArchive)
-- [OpenHacks](https://github.com/42Madrid-OpenHacks)
-- [42Mural](https://github.com/42Mural)
+	- [OpenHacks](https://github.com/42Madrid-OpenHacks)
+	- [42Mural](https://github.com/42Mural)
 
 ## My Stats
 
