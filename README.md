@@ -11,8 +11,6 @@ To see my latest work, check the **pinned repositories**.
 
 - [JkutkutOrg](https://github.com/jkutkutOrg)
 - [JkutkutArchive](https://github.com/jkutkutArchive)
-
-
 - 42Madrid:
 	- [Cursus](https://github.com/Jkutkut/42Madrid-Cursus)
 	- [Custom header](https://github.com/Jkutkut/custom_header)
@@ -24,8 +22,10 @@ To see my latest work, check the **pinned repositories**.
 
 <div style="text-align:center">
 
+<!--
 [![jre-gonz's 42 stats](https://badge42.vercel.app/api/v2/cl1mdj8k9006109l506v3krpv/stats?cursusId=21&coalitionId=64)](https://github.com/JaeSeoKim/badge42)
-  
+-->
+
 <br>
   
 <br>
