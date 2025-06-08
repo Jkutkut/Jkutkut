@@ -9,6 +9,12 @@ Feel free to explore my list of projects. Feedback and contributions are always 
 
 To see my latest work, check the **pinned repositories**.
 
+- [Osmia](https://github.com/jkutkut/osmia)
+	- [osmia-vscode](https://github.com/jkutkut/osmia-vscode)
+	- [osmia-cli](https://github.com/jkutkut/osmia-cli)
+	- [osmia-npm](https://github.com/jkutkut/osmia-npm)
+	- [docker4osmia](https://github.com/jkutkut/docker4osmia)
+
 - [JkutkutOrg](https://github.com/jkutkutOrg)
 - [JkutkutArchive](https://github.com/jkutkutArchive)
 - 42Madrid:
