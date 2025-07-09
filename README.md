@@ -8,7 +8,7 @@ I love to learn new things, geek about the latest technologies and share my know
 
 Currently, I am working as a Tech Lead while developing my own open-source projects here. Feel free to check them out and/or reach out :)
 
-Check out my work on [my portfolio website](https://jkutkut.memoriadeelefante.com/).
+Check out my work on my [portfolio website](https://jkutkut.memoriadeelefante.com/).
 
 ## GH Stats
 
