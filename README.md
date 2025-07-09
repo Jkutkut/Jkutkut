@@ -2,29 +2,15 @@
 
 <br>
 
-I am learning more and more everyday thanks to all the content on internet and this is my way of paying back: I will host all the non private code I make over the years, so everyone interested can see the code and (hopefully) learn as well. At the moment, I am working as a Software Developer while I develop my own projects here.
+I'm Jorge (Jkutkut on the internet), a passionate software developer always looking for new challenges. My journey in programming began as a self-taught enthusiast, progressively advancing my skills through independent learning, my formal education and courses.
 
-## Projects:
-Feel free to explore my list of projects. Feedback and contributions are always wellcome.
+I love to learn new things, geek about the latest technologies and share my knowledge with others. I am learning more and more everyday thanks to all the content on internet and this is my way of paying back: I will host all the non private code I make over the years, so everyone interested can see the code and (hopefully) learn as well.
 
-To see my latest work, check the **pinned repositories**.
+Currently, I am working as a Tech Lead while developing my own open-source projects here. Feel free to check them out and/or reach out :)
 
-- [Osmia](https://github.com/jkutkut/osmia)
-	- [osmia-vscode](https://github.com/jkutkut/osmia-vscode)
-	- [osmia-cli](https://github.com/jkutkut/osmia-cli)
-	- [osmia-npm](https://github.com/jkutkut/osmia-npm)
-	- [docker4osmia](https://github.com/jkutkut/docker4osmia)
+Check out my work on [my portfolio website](https://jkutkut.memoriadeelefante.com/).
 
-- [JkutkutOrg](https://github.com/jkutkutOrg)
-- [JkutkutArchive](https://github.com/jkutkutArchive)
-- 42Madrid:
-	- [Cursus](https://github.com/Jkutkut/42Madrid-Cursus)
-	- [Custom header](https://github.com/Jkutkut/custom_header)
-	- [C_Piscine](https://github.com/Jkutkut/42Madrid-C_Piscine)
-	- [OpenHacks](https://github.com/42Madrid-OpenHacks)
-	- [42Mural](https://github.com/42Mural)
-
-## My Stats
+## GH Stats
 
 <div style="text-align:center">
 
