@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Jkutkut</title>
+    <meta name="description" content="Portfolio website of Jkutkut" />
+    <script>
+        const domain = "https://jkutkut.memoriadeelefante.com";
+
+        const params = new URLSearchParams(window.location.search);
+        const redirectUrl = params.get("to");
+        let url = domain;
+        if (redirectUrl) {
+            url += "/" + redirectUrl;
+        }
+        window.location.replace(url);
+    </script>
+  </head>
+  <body></body>
+</html>
